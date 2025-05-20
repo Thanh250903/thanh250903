@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi my name is Thanh 👋
+I'm a .NET developer
 <!--
 **Thanh250903/thanh250903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
