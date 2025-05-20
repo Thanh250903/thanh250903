@@ -1,8 +1,9 @@
-## Hi my name is Thanh 👋
-I'm a .NET developer
-<div align="center>
-   [<img src="https://readme-typing-svg.herokuapp.com/demo/?font=Arial&duration=3000&lines=.NET;.React+JS;Node+JS"/>](https://readme-typing-svg.herokuapp.com/demo/?font=Arial&duration=3000&lines=Welcome+to+my+Portfolio;.NET;NodeJS;ReactJS)
-  </div>
+## Hi, my name is Thanh 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&duration=3000&pause=1000&width=435&lines=Welcome+to+my+Portfolio;.NET;NodeJS;ReactJS)](https://git.io/typing-svg)
+<div align="center">
+  <img height="320" width="440" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"/>
+</div>
+
 <!--
 **Thanh250903/thanh250903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
