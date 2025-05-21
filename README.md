@@ -5,6 +5,8 @@
   <img height="320" width="440" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"/>
 </div>
 
+<!--- About me --->
+
 ## About Me 👩‍💻
 
 <p align="left">
@@ -17,11 +19,11 @@
   📬 Contact me at: 
   <a href="mailto:vutienthanh250903@gmail.com">vutienthanh250903@gmail.com</a>
 </p>
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+<!--- Skills --->
 
+## Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
 | Category        | Skills        |
 |-----------------|---------------|
@@ -32,7 +34,10 @@
 | Services & Tools| <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> <a href="https://github.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>  |
 | APIs | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black" /> |
 | Learning |  <img src="https://img.shields.io/badge/Codeacademy-1F4056?style=for-the-badge&logo=codeacademy&logoColor=black" /> <img src="https://img.shields.io/badge/Stack Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /> |
-  
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<!--- Projects --->
 
 ## Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
   
@@ -43,7 +48,17 @@
 | Enterprise-Web-Development | [Repository](https://github.com/COMP1640-Greenwich/Enterprise-Web-Development_1640) | - | `.NET`, `Bootstrap 4`, `SQL Server Management Studio`, `Jira`  | `Product Manager`, `Tester`|
 | FPT-Book-Store | [Repository](https://github.com/Thanh250903/FPT-Book-Store) | - | `.NET`, `Bootstrap 4`, `SQL Server Management Studio`  | `FullStack developer`|
 
-## My socials <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<!--- My social --->
+
+## My socials <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> 
+I've been active across various platforms or social media. In addition, you can contact me to Gmail or others social media platforms such as: 
+<div align="center">
+<a href="https://www.facebook.com/vutienthanh2509/"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=Facebook&logoColor=FFFFFF"/></a>
+<a href="https://www.instagram.com/covac.stork/"><img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/></a>
+<a href="https://www.linkedin.com/in/vu-tien-thanh-fgw-dn-52b171307/"><img src="https://img.shields.io/badge/LinkedIn-0032A0?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
+</div>
 <img src="https://raw.githubusercontent.com/Thanh250903/Thanh250903/output/pacman-contribution-graph.svg" alt="Pacman animation">
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
