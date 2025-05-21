@@ -44,3 +44,11 @@
 | FPT-Book-Store | [Repository](https://github.com/Thanh250903/FPT-Book-Store) | - | `.NET`, `Bootstrap 4`, `SQL Server Management Studio`  | `FullStack developer`|
 
 ## My socials <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thanh250903/Thanh250903/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thanh250903/Thanh250903/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Thanh250903/Thanh250903/output/pacman-contribution-graph.svg">
+</picture>
+
+###
