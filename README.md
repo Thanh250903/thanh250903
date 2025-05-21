@@ -10,7 +10,7 @@
 <p align="left">
  🎓 I'm a student who has just completed my study program at 
   <a href="https://www.gre.ac.uk" target="_blank" >
-    Greenwich University
+    Greenwich University.
   </a><br>
   🔭 I’m looking for an opportunity to become a full-time web developer. <br>
   🎯 My aim is to become a Junior web developer within the next year and Mid-Level in two. <br>
@@ -36,6 +36,6 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
   
-
-
-
+| Projects |  Repository | Deployed Link | Tech Stack & Tools | Role |
+|:---------|:-----------:|:-------------:|:-------------------|:-----|
+| GreenPREP | [Repository](https://github.com/st-quy/GreenPREP) | [Link](https://uat-greenprep.onrender.com/login) | `ReactJS`, `TypeScript`, `JavaScript`, `Jira`  | `FrontEnd Developer`, `Tester`|
