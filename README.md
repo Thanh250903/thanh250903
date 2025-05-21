@@ -5,7 +5,7 @@
   <img height="320" width="440" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"/>
 </div>
 
-##  👩‍💻  About Me
+## About Me 👩‍💻
 
 <p align="left">
  🎓 I'm a student who has just completed my study program at 
@@ -20,7 +20,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-##  Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+## Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
 
 | Category        | Skills        |
@@ -33,9 +33,14 @@
 | APIs | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black" /> |
 | Learning |  <img src="https://img.shields.io/badge/Codeacademy-1F4056?style=for-the-badge&logo=codeacademy&logoColor=black" /> <img src="https://img.shields.io/badge/Stack Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /> |
   
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
+
+## Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
   
 | Projects |  Repository | Deployed Link | Tech Stack & Tools | Role |
 |:---------|:-----------:|:-------------:|:-------------------|:-----|
-| GreenPREP | [Repository](https://github.com/st-quy/GreenPREP) | [Link](https://uat-greenprep.onrender.com/login) | `ReactJS`, `TypeScript`, `JavaScript`, `Jira`  | `FrontEnd Developer`, `Tester`|
+| GreenPREP | [Repository](https://github.com/st-quy/GreenPREP) | [Link](https://uat-greenprep.onrender.com/login) | `ReactJS`, `TypeScript`, `JavaScript`, `Tailwind CSS`, `PostgreSQL`, `Jira`  | `FrontEnd Developer`, `Tester`|
+| Hotel Booking | [Repository](https://github.com/Thanh250903/HotelBooking) | - | `.NET`, `Javascript`, `Bootstrap 4`, `SQL Server Management Studio`, `Jira`  | `FullStack developer`, `Tester`|
+| Enterprise-Web-Development | [Repository](https://github.com/COMP1640-Greenwich/Enterprise-Web-Development_1640) | - | `.NET`, `Bootstrap 4`, `SQL Server Management Studio`, `Jira`  | `Product Manager`, `Tester`|
+| FPT-Book-Store | [Repository](https://github.com/Thanh250903/FPT-Book-Store) | - | `.NET`, `Bootstrap 4`, `SQL Server Management Studio`  | `FullStack developer`|
+
+## My socials <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> 
