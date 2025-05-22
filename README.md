@@ -17,7 +17,7 @@
   🔭 I’m looking for an opportunity to become a full-time web developer. <br>
   🎯 My aim is to become a Junior web developer within the next year and Mid-Level in two. <br>
   📬 Contact me at: 
-  <a href="mailto:vutienthanh250903@gmail.com">vutienthanh250903@gmail.com</a>
+  <a href="mailto:vutienthanh250903@gmail.com">vutienthanh250903@gmail.com.</a>
 </p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -59,6 +59,12 @@ I've been active across various platforms or social media. In addition, you can 
 <a href="https://www.instagram.com/covac.stork/"><img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/></a>
 <a href="https://www.linkedin.com/in/vu-tien-thanh-fgw-dn-52b171307/"><img src="https://img.shields.io/badge/LinkedIn-0032A0?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
 </div>
-<img src="https://raw.githubusercontent.com/Thanh250903/Thanh250903/output/pacman-contribution-graph.svg" alt="Pacman animation">
 
+
+<!--- Most used languages --->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thanh250903&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2%22%20height=%22150%22/%3E%20%3C/div%3E"/>
+</div>
+
+<img src="https://raw.githubusercontent.com/Thanh250903/Thanh250903/output/pacman-contribution-graph.svg" alt="Pacman animation">
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
