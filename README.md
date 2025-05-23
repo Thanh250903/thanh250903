@@ -62,6 +62,7 @@ I've been active across various platforms or social media. In addition, you can 
 <br>
 
 <!--- Most used languages --->
+## 📊 GitHub Status
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thanh250903&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2%22%20height=%22150%22/%3E%20%3C/div%3E"/>
 </div>
