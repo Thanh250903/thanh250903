@@ -1,6 +1,6 @@
 # Hi, my name is Thanh 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&duration=3000&pause=1000&width=435&lines=Welcome+to+my+Portfolio;How's+it+going+on?;.NET;NodeJS;ReactJS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&duration=3000&pause=1000&width=435&lines=Welcome+to+my+Github;How's+it+going+on?;.NET;NodeJS;ReactJS)](https://git.io/typing-svg)
 <div align="center">
   <img height="320" width="440" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"/>
 </div>
@@ -14,7 +14,7 @@
   <a href="https://www.gre.ac.uk" target="_blank" >
     Greenwich University.
   </a><br>
-  🔭 I’m looking for an opportunity to become a full-time web developer. <br>
+  🔭 Still learning code, code for fun:). <br>
   🎯 My aim is to become a Junior web developer within the next year and Mid-Level in two. <br>
   📬 Contact me at: 
   <a href="mailto:vutienthanh250903@gmail.com">vutienthanh250903@gmail.com.</a>
