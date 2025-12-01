@@ -42,15 +42,16 @@
 <!--- Projects --->
 
 ## Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
-  
-| Projects |  Repository | Deployed Link | Tech Stack & Tools | Role |
+
+ I have some group projects in unversity and a real project during intership. I'm creating own project and add it to porfolio later.
+[| Projects |  Repository | Deployed Link | Tech Stack & Tools | Role |
 |:---------|:-----------:|:-------------:|:-------------------|:-----|
 | GreenPREP | [Repository](https://github.com/st-quy/GreenPREP) | [Link](https://uat-greenprep.onrender.com/login) | `ReactJS`, `TypeScript`, `JavaScript`, `Tailwind CSS`, `PostgreSQL`, `Jira`  | `FrontEnd Developer`, `Tester`|
 | Hotel Booking | [Repository](https://github.com/Thanh250903/HotelBooking) | - | `.NET`, `Javascript`, `Bootstrap 4`, `SQL Server Management Studio`, `Jira`  | `FullStack developer`, `Tester`|
 | Enterprise-Web-Development | [Repository](https://github.com/COMP1640-Greenwich/Enterprise-Web-Development_1640) | - | `.NET`, `Bootstrap 4`, `SQL Server Management Studio`, `Jira`  | `Product Manager`, `Tester`|
 | FPT-Book-Store | [Repository](https://github.com/Thanh250903/FPT-Book-Store) | - | `.NET`, `Bootstrap 4`, `SQL Server Management Studio`  | `FullStack developer`|
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />](url)
 
 <!--- My social --->
 
